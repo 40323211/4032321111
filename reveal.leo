@@ -298,14 +298,14 @@
 </v>
 </v>
 </v>
-<v t="leo.20151108173301.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151108173301.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151108173301.2"><vh>檔案說明</vh></v>
 <v t="leo.20151108173301.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151108173301.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151108173301.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151108173301.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151108173301.7"><vh>有關我的作業</vh></v>
-<v t="leo.20151108173301.8"><vh>作業任務一</vh></v>
+<v t="leo.20151108173301.8"><vh>作業任務二</vh></v>
 <v t="leo.20151108173301.9"><vh>第3張投影片</vh></v>
 </v>
 </v>
